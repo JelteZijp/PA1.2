@@ -7,7 +7,11 @@ Here is the example to replicate:
 
 ![Markdown example](https://github.com/TUDelft-MUDE/source-files/raw/main/file/markdown_example.png)
 
-% WRITE YOUR MARKDOWN HERE
+### My first markdown Document
+
+This is my introduction to *markdown formatting*
+
+**Example of a Markdown function**
 
 
 ## Task 2 Open rendered markdown preview
@@ -20,7 +24,12 @@ Now try to replicate the following markdown table (you can copy-paste the star e
 
 ![Markdown example](https://github.com/TUDelft-MUDE/source-files/raw/main/file/markdown_table.png)
 
-% WRITE YOUR MARKDOWN HERE
+|Language|Difficulty|Use Case|Popularity|
+|---|---|---|---|
+|Python|Beginner|Data Science, Web Dev|⭐⭐⭐⭐⭐|
+|Javascript|Beginner|Web Development|⭐⭐⭐⭐⭐|
+|C++|Advanced|System Programming|⭐⭐⭐|
+|R|Intermediate|Statistics, Data Analysis|⭐⭐⭐|
 
 
 > By Tom van Woudenberg, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
